@@ -1,0 +1,5 @@
+{
+  "name": "@chinese-character/random-chinese-character",
+  "version": "0.1.3",
+  "exports": "./mod.js"
+}
